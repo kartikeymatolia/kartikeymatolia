@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
+🎓 Pursuing B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore.<br>
+
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR4cGZzN2ptMGZ6dXVrN2ZsbmFzd3VzbXhkM3IxM25leTZpYzY1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50">
 
 ```python
@@ -37,7 +39,7 @@ me = Engineer()`
 me.say_hi()
 ```
 
-🎓 Pursuing B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore.<br>
+
 🔭 I’m currently working on Data Structures and Algorithm, Competitive Programming Skills, etc.<br>
 ⚡ Fun fact: I have achieved Black Belt and National Gold medel winner in Karate.
 
