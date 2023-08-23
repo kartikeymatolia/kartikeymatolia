@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 🎓 Pursuing B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore.<br>
 🔭 I’m currently working on Data Structures and Algorithm, Competitive Programming Skills, etc.<br>
 ⚡ Fun fact: I have achieved Black Belt and National Gold medel winner in Karate.
+
+## Contact
+- [@KartikeyMatolia]((https://twitter.com/KartikeyMatolia) on Twitter
+- [@gravitydefier12](./) on Discord
+- <a href="mailto:kartikeymatolia12@gmail.com">@Kartikey</a> on Gmail
