@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I have achieved Black Belt and National Gold medel winner in Karate.
 
 ## Contact
-- [@KartikeyMatolia]((https://twitter.com/KartikeyMatolia) on Twitter
+- [@KartikeyMatolia](https://twitter.com/KartikeyMatolia) on Twitter
 - [@gravitydefier12](./) on Discord
 - <a href="mailto:kartikeymatolia12@gmail.com">@Kartikey</a> on Gmail
