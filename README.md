@@ -25,11 +25,14 @@ class Engineer:
         self.name = "Kartikey Matolia"
         self.pronouns = "He | Him"
         self.language_spoken = ["en_GB", "hi_IN"]
+
     def skills(self):
         self.code = [Python, SQL, JavaScript]
         self.tools: [MySQL, Microsoft SQL Server]
+
     def say_hi(self):
         print("I appreciate you checking by, and I hope some of my work piques your curiosity.")
+
 me = Engineer()`
 me.say_hi()
 ```
