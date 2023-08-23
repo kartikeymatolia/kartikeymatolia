@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
+🎓 Pursuing B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore.
+
  🔭 I’m currently working on Data Structures and Algorithm, Competitive Programming Skills, etc.
+ 
  ⚡ Fun fact: I have achieved Black Belt and National Gold medel winner in Karate.
