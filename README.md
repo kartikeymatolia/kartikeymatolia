@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 ## Contact
 - [@KartikeyMatolia](https://twitter.com/KartikeyMatolia) on Twitter
 - [@gravitydefier12](./) on Discord
-- <a href="mailto:kartikeymatolia12@gmail.com">@Kartikey</a> on Gmail
