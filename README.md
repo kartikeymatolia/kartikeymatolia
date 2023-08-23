@@ -22,26 +22,28 @@ Here are some ideas to get you started:
 
 # -*- coding: utf-8 -*-
 
-class Engineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Kartikey Matolia"
         self.pronouns = "He | Him"
         self.language_spoken = ["en_GB", "hi_IN"]
 
     def skills(self):
-        self.code = [Python, SQL, JavaScript]
+        self.code = [Python, SQL, JavaScript, HTML, CSS]
         self.tools: [MySQL, Microsoft SQL Server]
 
-    def say_hi(self):
+    def say_hey(self):
         print("I appreciate you checking by, and I hope some of my work piques your curiosity.")
 
-me = Engineer()`
-me.say_hi()
+me = SoftwareEngineer()`
+me.say_hey()
 ```
 
+## GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=kartikeymatolia&theme=onedark&hide_border=false)<br/>
 
 🔭 I’m currently working on Data Structures and Algorithm, Competitive Programming Skills, etc.<br>
-⚡ Fun fact: I have achieved Black Belt and National Gold medel winner in Karate.
+⚡ Fun fact: I have achieved Black Belt and National Gold medal in Karate.
 
 ## Contact
 - [@KartikeyMatolia](https://twitter.com/KartikeyMatolia) on Twitter
